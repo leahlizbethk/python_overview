@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as np 
 
 angles = np.array([0, 30, 45, 60, 90, 180, 360])
 

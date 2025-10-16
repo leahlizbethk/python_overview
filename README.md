@@ -1,1 +1,1 @@
-# python_overview for numpy.
+# python - overview of numpy.
